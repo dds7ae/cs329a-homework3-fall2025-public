@@ -29,3 +29,4 @@ geopy
 xmltodict
 jaraco.windows
 google-genai
+ipykernel
